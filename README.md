@@ -5,6 +5,7 @@ Reusable Hadoop wordcount program. This is a quick version to allow you to compi
 Make sure you have "ant" installed and you'll be ready to try. 
 
 1) cd wordcount/
+
 2) ant
 
 This should create a target/wordcount.jar file in your current path.
