@@ -9,3 +9,7 @@ Make sure you have "ant" installed and you'll be ready to try.
 2) ant
 
 This should create a target/wordcount.jar file in your current path.
+
+3) java -jar target/wordcount.jar in.txt out.txt 
+
+in.txt is already created while out.txt is to be.
